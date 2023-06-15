@@ -1,0 +1,36 @@
+item {
+    id: 1
+    name: 'title'
+}
+
+item {
+    id: 2
+    name: 'author'
+}
+item {
+    id: 3
+    name: 'TOC_chapter'
+}
+
+item {
+    id: 4
+    name: 'TOC_pagenumber'
+}
+item {
+    id: 5
+    name: 'chapter'
+}
+
+item {
+    id: 6
+    name: 'content'
+}
+item {
+    id: 7
+    name: 'content_pagenumber'
+}
+
+item {
+    id: 8
+    name: 'content_chapter'
+}
