@@ -1291,4 +1291,16 @@
 <ymax>1627</ymax>
 </bndbox>
 </object>
+<object>
+<name>chapter</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>143</xmin>
+<ymin>96</ymin>
+<xmax>266</xmax>
+<ymax>125</ymax>
+</bndbox>
+</object>
 </annotation>

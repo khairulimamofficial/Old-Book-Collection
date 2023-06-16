@@ -500,7 +500,7 @@
 </bndbox>
 </object>
 <object>
-<name>chapter</name>
+<name>TOC_chapter</name>
 <pose>Unspecified</pose>
 <truncated>0</truncated>
 <difficult>0</difficult>
@@ -1109,6 +1109,18 @@
 <ymin>1618</ymin>
 <xmax>1152</xmax>
 <ymax>1639</ymax>
+</bndbox>
+</object>
+<object>
+<name>chapter</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>396</xmin>
+<ymin>43</ymin>
+<xmax>825</xmax>
+<ymax>76</ymax>
 </bndbox>
 </object>
 </annotation>

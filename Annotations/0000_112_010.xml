@@ -20,7 +20,7 @@
 </size>
 <segmented>0</segmented>
 <object>
-<name>chapter</name>
+<name>TOC_chapter</name>
 <pose>Unspecified</pose>
 <truncated>0</truncated>
 <difficult>0</difficult>
@@ -32,7 +32,7 @@
 </bndbox>
 </object>
 <object>
-<name>chapter</name>
+<name>TOC_chapter</name>
 <pose>Unspecified</pose>
 <truncated>0</truncated>
 <difficult>0</difficult>
@@ -44,7 +44,7 @@
 </bndbox>
 </object>
 <object>
-<name>chapter</name>
+<name>TOC_chapter</name>
 <pose>Unspecified</pose>
 <truncated>0</truncated>
 <difficult>0</difficult>
@@ -56,7 +56,7 @@
 </bndbox>
 </object>
 <object>
-<name>chapter</name>
+<name>TOC_chapter</name>
 <pose>Unspecified</pose>
 <truncated>0</truncated>
 <difficult>0</difficult>
@@ -188,7 +188,7 @@
 </bndbox>
 </object>
 <object>
-<name>chapter</name>
+<name>TOC_chapter</name>
 <pose>Unspecified</pose>
 <truncated>0</truncated>
 <difficult>0</difficult>
@@ -416,7 +416,7 @@
 </bndbox>
 </object>
 <object>
-<name>chapter</name>
+<name>TOC_chapter</name>
 <pose>Unspecified</pose>
 <truncated>0</truncated>
 <difficult>0</difficult>
@@ -428,7 +428,7 @@
 </bndbox>
 </object>
 <object>
-<name>chapter</name>
+<name>TOC_chapter</name>
 <pose>Unspecified</pose>
 <truncated>0</truncated>
 <difficult>0</difficult>
@@ -848,15 +848,15 @@
 </bndbox>
 </object>
 <object>
-<name>content_pagenumber</name>
+<name>chapter</name>
 <pose>Unspecified</pose>
 <truncated>0</truncated>
 <difficult>0</difficult>
 <bndbox>
-<xmin>123</xmin>
-<ymin>59</ymin>
-<xmax>235</xmax>
-<ymax>127</ymax>
+<xmin>605</xmin>
+<ymin>86</ymin>
+<xmax>764</xmax>
+<ymax>112</ymax>
 </bndbox>
 </object>
 </annotation>
